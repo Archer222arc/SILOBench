@@ -1,4 +1,4 @@
-# SILOBench
+# SILOBench: Solver-in-the-Loop Benchmarks for Self-Correction and Behavioral Rationality in Operations Research
 
 SILOBench provides two solver-in-the-loop operations research benchmarks:
 
@@ -155,7 +155,7 @@ If you use SILOBench, ORDebug, or ORBias, please cite:
 
 ```bibtex
 @inproceedings{ao2026silobench,
-  title = {Solver-in-the-Loop: MDP-Based Benchmarks for Self-Correction and Behavioral Rationality in Operations Research},
+  title = {{SILOBench}: Solver-in-the-Loop Benchmarks for Self-Correction and Behavioral Rationality in Operations Research},
   author = {Ao, Ruicheng and Simchi-Levi, David and Wang, Xinshang},
   booktitle = {Proceedings of the International Conference on Machine Learning},
   year = {2026}
