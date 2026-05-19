@@ -149,10 +149,22 @@ python scripts/validate_benchmarks.py
 The script checks the expected counts, key fields, and balanced LP test
 distribution.
 
+## Citation
+
+If you use SILOBench, ORDebug, or ORBias, please cite:
+
+```bibtex
+@inproceedings{ao2026silobench,
+  title = {Solver-in-the-Loop: MDP-Based Benchmarks for Self-Correction and Behavioral Rationality in Operations Research},
+  author = {Ao, Ruicheng and Simchi-Levi, David and Wang, Xinshang},
+  booktitle = {Proceedings of the International Conference on Machine Learning},
+  year = {2026}
+}
+```
+
 ## License
 
 Code in this repository is released under the Apache License 2.0.
 
 Benchmark data and documentation are released under the Creative Commons
 Attribution 4.0 International License (CC BY 4.0). See `DATA_LICENSE`.
-
