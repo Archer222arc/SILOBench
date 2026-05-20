@@ -1,6 +1,6 @@
-# SILOBench: Solver-in-the-Loop Benchmarks for Self-Correction and Behavioral Rationality in Operations Research
+# ORLoopBench: Solver-in-the-Loop Benchmarks for Self-Correction and Behavioral Rationality in Operations Research
 
-SILOBench provides two solver-in-the-loop operations research benchmarks:
+ORLoopBench provides two solver-in-the-loop operations research benchmarks:
 
 - **ORDebug**: infeasible LP/MILP model repair with solver feedback.
 - **ORBias**: closed-form operational decision rationality for newsvendor and
@@ -151,11 +151,11 @@ distribution.
 
 ## Citation
 
-If you use SILOBench, ORDebug, or ORBias, please cite:
+If you use ORLoopBench, ORDebug, or ORBias, please cite:
 
 ```bibtex
-@inproceedings{ao2026silobench,
-  title = {{SILOBench}: Solver-in-the-Loop Benchmarks for Self-Correction and Behavioral Rationality in Operations Research},
+@inproceedings{ao2026orloopbench,
+  title = {{ORLoopBench}: Solver-in-the-Loop Benchmarks for Self-Correction and Behavioral Rationality in Operations Research},
   author = {Ao, Ruicheng and Simchi-Levi, David and Wang, Xinshang},
   booktitle = {Proceedings of the International Conference on Machine Learning},
   year = {2026}

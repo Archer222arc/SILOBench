@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate SILOBench release files."""
+"""Validate ORLoopBench release files."""
 
 from __future__ import annotations
 
@@ -82,7 +82,7 @@ def validate_orbias() -> None:
 def main() -> None:
     validate_ordebug()
     validate_orbias()
-    print("SILOBench validation passed.")
+    print("ORLoopBench validation passed.")
 
 
 if __name__ == "__main__":
